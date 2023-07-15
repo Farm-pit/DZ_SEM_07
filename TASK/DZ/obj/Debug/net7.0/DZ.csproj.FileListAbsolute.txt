@@ -1,0 +1,15 @@
+C:\Users\Tab\Desktop\Geek Brains\C#\SHARP_SEM_07\TASKS\DZ\obj\Debug\net7.0\DZ.csproj.AssemblyReference.cache
+C:\Users\Tab\Desktop\Geek Brains\C#\SHARP_SEM_07\TASKS\DZ\obj\Debug\net7.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tab\Desktop\Geek Brains\C#\SHARP_SEM_07\TASKS\DZ\obj\Debug\net7.0\DZ.AssemblyInfoInputs.cache
+C:\Users\Tab\Desktop\Geek Brains\C#\SHARP_SEM_07\TASKS\DZ\obj\Debug\net7.0\DZ.AssemblyInfo.cs
+C:\Users\Tab\Desktop\Geek Brains\C#\SHARP_SEM_07\TASKS\DZ\obj\Debug\net7.0\DZ.csproj.CoreCompileInputs.cache
+C:\Users\Tab\Desktop\Geek Brains\C#\SHARP_SEM_07\TASKS\DZ\bin\Debug\net7.0\DZ.exe
+C:\Users\Tab\Desktop\Geek Brains\C#\SHARP_SEM_07\TASKS\DZ\bin\Debug\net7.0\DZ.deps.json
+C:\Users\Tab\Desktop\Geek Brains\C#\SHARP_SEM_07\TASKS\DZ\bin\Debug\net7.0\DZ.runtimeconfig.json
+C:\Users\Tab\Desktop\Geek Brains\C#\SHARP_SEM_07\TASKS\DZ\bin\Debug\net7.0\DZ.dll
+C:\Users\Tab\Desktop\Geek Brains\C#\SHARP_SEM_07\TASKS\DZ\bin\Debug\net7.0\DZ.pdb
+C:\Users\Tab\Desktop\Geek Brains\C#\SHARP_SEM_07\TASKS\DZ\obj\Debug\net7.0\DZ.dll
+C:\Users\Tab\Desktop\Geek Brains\C#\SHARP_SEM_07\TASKS\DZ\obj\Debug\net7.0\refint\DZ.dll
+C:\Users\Tab\Desktop\Geek Brains\C#\SHARP_SEM_07\TASKS\DZ\obj\Debug\net7.0\DZ.pdb
+C:\Users\Tab\Desktop\Geek Brains\C#\SHARP_SEM_07\TASKS\DZ\obj\Debug\net7.0\DZ.genruntimeconfig.cache
+C:\Users\Tab\Desktop\Geek Brains\C#\SHARP_SEM_07\TASKS\DZ\obj\Debug\net7.0\ref\DZ.dll
